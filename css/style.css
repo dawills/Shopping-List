@@ -1,0 +1,42 @@
+body {
+	background-color:white;
+}
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
+#heading {
+	padding-bottom:30px;
+	padding-top:30px;
+}
+
+#logo {
+	text-align:center;
+    height:100px;
+    width:100px;
+}
+.main {
+	background-color:white;
+	margin-top:80px;
+	margin-bottom:110px;
+	padding-left:100px;
+	min-width:1200px;
+	height:500px;
+	position:relative;
+}
+h1 {
+text-align:center;
+margin-top:100px;
+
+}
+
+.row {
+	display: table-row;
+	position:relative;
+	padding-top:0.5rem;
+	max-width:75em;
+	width:100%
+}
+
